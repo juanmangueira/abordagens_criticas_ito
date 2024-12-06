@@ -1,7 +1,7 @@
 # Apresentação de Seminário
 
 ## Introdução
-Este trabalho referencia-se ao seminário de abordagens críticas em teorias organizacionais, do grupo 3. O material produzido em slides consta abaixo. 
+Este trabalho referencia-se ao seminário de abordagem crítica em teoria organizacional, do grupo 3. O material produzido em slides consta abaixo. 
 
 ## Apresentação de slides
 <center>

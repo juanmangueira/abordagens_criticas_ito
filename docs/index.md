@@ -1,7 +1,7 @@
-# Abordagens Críticas em Teorias Organizacionais
+# Abordagem Crítica em Teoria Organizacional
 
 ## Introdução
-Esse site foi criado para armazenar os materiais do Seminário A (Abordagens Críticas em Teorias Organizacionais) da disciplina de Introdução a Teorias Organizacionais da Universidade de Brasília, durante o 2º semestre de 2024. A disciplina tem o objetivo de ensinar sobre as principais teorias organizacionais que regem a Administração Científica. O desenvolvimento do nosso seminário se dedica a trazer abordagens críticas, empíricas e teóricas, em teorias organizacionais, de modo a materializar o conteúdo aprendido na teoria, na prática de um gestor.
+Esse site foi criado para armazenar os materiais do Seminário A (Abordagem Crítica em Teoria Organizacional) da disciplina de Introdução a Teorias Organizacionais da Universidade de Brasília, durante o 2º semestre de 2024. A disciplina tem o objetivo de ensinar sobre uma das principais abordagens em teoria organizacional dentro da Administração Científica. O desenvolvimento do nosso seminário se dedica a trazer a abordagem crítica, teórica e empírica, em teoria organizacional, de modo a materializar o conteúdo aprendido na teoria, na prática.
 
 ## Equipe
 
