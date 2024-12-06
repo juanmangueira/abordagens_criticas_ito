@@ -11,11 +11,11 @@ Nossa equipe de trabalho é composta pelos discentes de Administração da Unive
 
 | Foto        | Nome                                 | LinkedIn |
 | :---------: | :----------------------------------: | :----: |
+| ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | Juan Mangueira | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira) |
+| ![Foto Vitor Matheys (Membro Time)](assets/perfil_vitor.jpg){ align=center, width="100" } | Vitor Matheus Silva | [:fontawesome-brands-linkedin: vitor-m-santos](https://linkedin.com/in/vitor-m-santos) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Ana Camargo | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Gabriele Couto | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
-| ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | Juan Mangueira | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Vanessa dos Santos | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
-| ![Foto (Membro Time)](){ align=center, width="100" } | Vitor Matheus Silva | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Vitória | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 
 </center>
