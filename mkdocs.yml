@@ -24,8 +24,6 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Conteúdos:
-    - Apresentação: apresentacao.md
-    - Conteúdo B: assunto_b.md
-  - Materiais:
-    - Referencial Bibliográfico: referencias_bibliograficas.md
+  - Apresentação: apresentacao.md
+  - Referencial Bibliográfico: referencias_bibliograficas.md
+  - Extras: extras.md
