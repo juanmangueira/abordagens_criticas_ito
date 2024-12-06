@@ -12,6 +12,6 @@ Este trabalho referencia-se ao seminário de abordagem crítica em teoria organi
     src="https://www.canva.com/design/DAGYb7ZbPqs/vEDegKlv7OqT72iUdZXeIg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGYb7ZbPqs&#x2F;vEDegKlv7OqT72iUdZXeIg&#x2F;view?utm_content=DAGYb7ZbPqs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Seminário A - Abordagens Críticas em Teorias Organizacionais </a> - Grupo 3
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGYb7ZbPqs&#x2F;vEDegKlv7OqT72iUdZXeIg&#x2F;view?utm_content=DAGYb7ZbPqs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Seminário A - Abordagem Crítica em Teoria Organizacional </a> - Grupo 3
 
 </center>
