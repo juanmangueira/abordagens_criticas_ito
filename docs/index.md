@@ -4,7 +4,6 @@
 Esse site foi criado para armazenar os materiais do Seminário A (Abordagem Crítica em Teoria Organizacional) da disciplina de Introdução a Teorias Organizacionais, ministrada pelo professor Doutor Rodrigo Rezende Ferreira, da Universidade de Brasília, durante o 2º semestre de 2024. A disciplina tem o objetivo de ensinar sobre uma das principais abordagens em teoria organizacional dentro da Administração Científica. O desenvolvimento do nosso seminário se dedica a trazer a abordagem crítica, teórica e empírica, em teoria organizacional, de modo a materializar o conteúdo aprendido na teoria, na prática.
 
 ## Equipe
-
 Nossa equipe de trabalho é composta pelos discentes de Administração e Gestão de Políticas Públicas da Universidade de Brasília presentes na Tabela 1.
 
 <center>
