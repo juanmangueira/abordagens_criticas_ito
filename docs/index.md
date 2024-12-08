@@ -5,7 +5,7 @@ Esse site foi criado para armazenar os materiais do Seminário A (Abordagem Crí
 
 ## Equipe
 
-Nossa equipe de trabalho é composta pelos discentes de Administração da Universidade de Brasília presentes na Tabela 1.
+Nossa equipe de trabalho é composta pelos discentes de Administração e Gestão de Políticas Públicas da Universidade de Brasília presentes na Tabela 1.
 
 <center>
 
