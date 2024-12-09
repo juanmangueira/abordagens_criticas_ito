@@ -10,10 +10,10 @@ Nossa equipe de trabalho é composta pelos discentes de Administração e Gestã
 
 | Foto        | Nome                                 | LinkedIn |
 | :---------: | :----------------------------------: | :----: |
+| ![Foto Gabriele Nogueira (Membro Time)](assets/perfil_gabriele.jpg){ align=center, width="100" } | Gabriele Nogueira | [:fontawesome-brands-linkedin: gabriele-nogueira](https://www.linkedin.com/in/gabriele-nogueira) |
 | ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | Juan Mangueira | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira) |
 | ![Foto Vitor Matheys (Membro Time)](assets/perfil_vitor.jpg){ align=center, width="100" } | Vitor Matheus Silva | [:fontawesome-brands-linkedin: vitor-m-santos](https://linkedin.com/in/vitor-m-santos) |
 | ![Foto Vitória Reis (Membro Time)](assets/perfil_vitoria.jpg){ align=center, width="100" } | Vitória Reis | [:fontawesome-brands-linkedin: vitória-reis-889b14208](https://linkedin.com/in/vitória-reis-889b14208) |
-| ![Foto (Membro Time)](){ align=center, width="100" } | Gabriele Nogueira | [:fontawesome-brands-linkedin: gabriele-nogueira](https://www.linkedin.com/in/gabriele-nogueira) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Ana Camargo | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 | ![Foto (Membro Time)](){ align=center, width="100" } | Vanessa dos Santos | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 
