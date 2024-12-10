@@ -12,10 +12,11 @@ Nossa equipe de trabalho é composta pelos discentes de Administração e Gestã
 | :---------: | :----------------------------------: | :----: |
 | ![Foto Gabriele Nogueira (Membro Time)](assets/perfil_gabriele.jpg){ align=center, width="100" } | Gabriele Nogueira | [:fontawesome-brands-linkedin: gabriele-nogueira](https://www.linkedin.com/in/gabriele-nogueira) |
 | ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | Juan Mangueira | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira) |
+| ![Foto Vanessa dos Santos (Membro Time)](assets/perfil_vanessa.jpg){ align=center, width="100" } | Vanessa dos Santos | [:fontawesome-brands-linkedin: vanessa-araújo-178160166](https://linkedin.com/in/vanessa-araújo-178160166) |      
 | ![Foto Vitor Matheys (Membro Time)](assets/perfil_vitor.jpg){ align=center, width="100" } | Vitor Matheus Silva | [:fontawesome-brands-linkedin: vitor-m-santos](https://linkedin.com/in/vitor-m-santos) |
 | ![Foto Vitória Reis (Membro Time)](assets/perfil_vitoria.jpg){ align=center, width="100" } | Vitória Reis | [:fontawesome-brands-linkedin: vitória-reis-889b14208](https://linkedin.com/in/vitória-reis-889b14208) |
-| ![Foto Vanessa dos Santos (Membro Time)](assets/perfil_vanessa.jpg){ align=center, width="100" } | Vanessa dos Santos | [:fontawesome-brands-linkedin: vanessa-araújo-178160166](https://linkedin.com/in/vanessa-araújo-178160166) |
-| ![Foto (Membro Time)](){ align=center, width="100" } | Ana Camargo | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
+| ![Foto Ana Camargo (Membro Time)](){ align=center, width="100" } | Ana Camargo | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
+| ![Foto Mylena Andrade (Membro Time)](){ align=center, width="100" } | Mylena Andrade | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/) |
 
 </center>
 <div style="text-align: center">
