@@ -10,7 +10,7 @@ Nossa equipe de trabalho é composta pelos discentes de Administração e Gestã
 
 | Foto        | Nome                                 | Perfil |
 | :---------: | :----------------------------------: | :----: |
-| ![Foto Ana Camargo (Membro Time)](){ align=center, width="100" } | **Ana Camargo** | [:fontawesome-solid-flask: Lattes ](http://lattes.cnpq.br/5558976982290791) |
+| ![Foto Ana Camargo (Membro Time)](assets/perfil_ana.jpg){ align=center, width="100" } | **Ana Camargo** | [:fontawesome-solid-flask: Lattes ](http://lattes.cnpq.br/5558976982290791) |
 | ![Foto Gabriele Nogueira (Membro Time)](assets/perfil_gabriele.jpg){ align=center, width="100" } | **Gabriele Nogueira** | [:fontawesome-brands-linkedin: gabriele-nogueira](https://www.linkedin.com/in/gabriele-nogueira) |
 | ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | **Juan Mangueira** | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira) |
 | ![Foto Vanessa dos Santos (Membro Time)](assets/perfil_vanessa.jpg){ align=center, width="100" } | **Vanessa dos Santos** | [:fontawesome-brands-linkedin: vanessa-araújo-178160166](https://linkedin.com/in/vanessa-araújo-178160166) |      
